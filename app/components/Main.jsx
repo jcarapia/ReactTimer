@@ -5,7 +5,6 @@ var Main = (props) => {
 	return (
 		<div>
 			<div>
-
 				<div> 
 					<Nav/>
 					<p>Main.jsx rendered</p>
